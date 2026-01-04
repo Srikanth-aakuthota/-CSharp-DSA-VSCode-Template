@@ -1,0 +1,18 @@
+{
+    // See https://go.microsoft.com/fwlink/?linkid=830387 for more about C# debugging in VS Code
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (input/output file)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net6.0/CSharpDSA.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}

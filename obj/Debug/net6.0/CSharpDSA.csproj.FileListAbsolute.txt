@@ -1,0 +1,14 @@
+C:\Users\Public\CSharpDSA\bin\Debug\net6.0\CSharpDSA.exe
+C:\Users\Public\CSharpDSA\bin\Debug\net6.0\CSharpDSA.deps.json
+C:\Users\Public\CSharpDSA\bin\Debug\net6.0\CSharpDSA.runtimeconfig.json
+C:\Users\Public\CSharpDSA\bin\Debug\net6.0\CSharpDSA.dll
+C:\Users\Public\CSharpDSA\bin\Debug\net6.0\CSharpDSA.pdb
+C:\Users\Public\CSharpDSA\obj\Debug\net6.0\CSharpDSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\CSharpDSA\obj\Debug\net6.0\CSharpDSA.AssemblyInfoInputs.cache
+C:\Users\Public\CSharpDSA\obj\Debug\net6.0\CSharpDSA.AssemblyInfo.cs
+C:\Users\Public\CSharpDSA\obj\Debug\net6.0\CSharpDSA.csproj.CoreCompileInputs.cache
+C:\Users\Public\CSharpDSA\obj\Debug\net6.0\CSharpDSA.dll
+C:\Users\Public\CSharpDSA\obj\Debug\net6.0\refint\CSharpDSA.dll
+C:\Users\Public\CSharpDSA\obj\Debug\net6.0\CSharpDSA.pdb
+C:\Users\Public\CSharpDSA\obj\Debug\net6.0\CSharpDSA.genruntimeconfig.cache
+C:\Users\Public\CSharpDSA\obj\Debug\net6.0\ref\CSharpDSA.dll

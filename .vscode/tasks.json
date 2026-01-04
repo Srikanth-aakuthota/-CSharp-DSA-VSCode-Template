@@ -1,0 +1,32 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "build",
+			"command": "dotnet",
+			"type": "process",
+			"args": [
+				"build",
+				"${workspaceFolder}/CSharpDSA.csproj"
+			],
+			"problemMatcher": "$msCompile"
+		},
+		   {
+			   "label": "run",
+			   "type": "process",
+			   "command": "dotnet",
+			   "args": [
+				   "run",
+				   "--project",
+				   "${workspaceFolder}/CSharpDSA.csproj"
+			   ],
+			   "dependsOn": [
+				   "build"
+			   ],
+			   "group": {
+				   "kind": "build",
+				   "isDefault": true
+			   }
+		   }
+	]
+}
